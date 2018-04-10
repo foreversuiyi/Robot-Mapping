@@ -1,2 +1,2 @@
-# Robot_mapping_course_assignment
+# Robot_mapping
 Assignments in Matlab version of Robot Mapping course.
